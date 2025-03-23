@@ -246,6 +246,7 @@ ol {
 
 .content__list-container {
   position: relative;
+  padding-right: 2px;
   height: 298px;
   overflow-y: auto;
   font-family: "Oswald", sans-serif;
